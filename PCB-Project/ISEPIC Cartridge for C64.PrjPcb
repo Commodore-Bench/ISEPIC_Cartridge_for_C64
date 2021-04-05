@@ -24,13 +24,14 @@ ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
 AutoSheetNumbering=1
+AutoCrossReferences=0
 PushECOToAnnotationFile=1
 DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
-OutputPath=Project Outputs for ISEPIC Cartridge for C64
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 VaultGUID=
@@ -136,11 +137,11 @@ DocumentPath=Project Outputs for ISEPIC Cartridge for C64\BOM\2021-03-16\Bill of
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for ICEPIC Cartridge for C64\Design Rule Check - ICEPIC Cartridge for C64.html
+DocumentPath=Project Outputs for ISEPIC Cartridge for C64\Design Rule Check - ICEPIC Cartridge for C64.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for ISEPIC Cartridge for C64\Design Rule Check - ICEPIC Cartridge for C64.html
+DocumentPath=Project Outputs for ISEPIC Cartridge for C64\Design Rule Check - ISEPIC Cartridge for C64.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
@@ -208,20 +209,20 @@ DocumentPath=Project Outputs for ISEPIC Cartridge for C64\NC Drill\2021-03-16\IC
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=PCB-Tech
+Name=Version
+Value=1.0
 
 [Parameter2]
-Name=Revision
-Value=-
-
-[Parameter3]
 Name=Title
 Value=Projektname
 
+[Parameter3]
+Name=Revision
+Value=a
+
 [Parameter4]
-Name=Version
-Value=1.0
+Name=Author
+Value=PCB-Tech
 
 [Configuration1]
 Name=Sources
@@ -296,7 +297,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for ISEPIC Cartridge for C64
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs

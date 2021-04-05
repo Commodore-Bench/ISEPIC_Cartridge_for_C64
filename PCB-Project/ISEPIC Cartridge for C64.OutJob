@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=ICEPIC Cartridge for C64.OutJob
+Name=ISEPIC Cartridge for C64.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
